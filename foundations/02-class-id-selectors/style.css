@@ -1,0 +1,22 @@
+/* Odd numbered, pink background, Veradana, DejaVu Sans and sans-serif  */
+.odd-numbers {
+    background-color: #FFC0CB;
+    font-family: "Veradana", "DejaVu Sans", sans-serif;
+}
+
+/* Blue text, 36px */
+#blue-font-36 {
+    color: #0000ef;
+    font-size: 36px;
+} 
+
+/* 24px */
+.font-24 {
+    font-size: 24px;
+}
+
+/* Green background, bold */
+#green-bold {
+    background-color: #8ff822;
+    font-weight: bold;
+}
